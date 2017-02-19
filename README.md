@@ -48,7 +48,7 @@ In das Verzeichnis wechseln:
 `cd socat-2.0.0-b9`
 
 Kompilieren:  
-`configure --prefix=/home/$USER`  
+`./configure --prefix=/home/$USER`  
 `make`  
 `make install`
 
